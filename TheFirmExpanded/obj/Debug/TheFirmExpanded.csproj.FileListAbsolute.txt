@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\obj\Debug\TheFirmExpanded.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\obj\Debug\TheFirmExpanded.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\bin\Debug\TheFirmExpanded.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\bin\Debug\TheFirmExpanded.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\bin\Debug\TheFirmExpanded.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\obj\Debug\TheFirmExpanded.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\ThreePrinciples\TheFirmExpanded\obj\Debug\TheFirmExpanded.pdb
